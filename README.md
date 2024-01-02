@@ -18,11 +18,3 @@ O objetivo deste projeto é criar um sistema de RH/Departamento Pessoal que faç
 - PostgreSQL instalado e em execução
 
 ### Passos
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
-   cd seu-projeto
-
-   ## Funcionanlidades
-   - Folha de pagamento
