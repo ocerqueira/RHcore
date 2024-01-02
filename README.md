@@ -17,4 +17,5 @@ O objetivo deste projeto é criar um sistema de RH/Departamento Pessoal que faç
 - Python 3.x instalado
 - PostgreSQL instalado e em execução
 
-### Passos
+### Arquitetura
+Pelo levantamento de requisitos, irei utilizar uma arquitetura monolitica por ser mais simples para se dar manutenção, apesar do desafio para tornar escalável ser maior. Mas para um iniciante, é mais prático e fácil, dada a complexidade baixa do projeto
